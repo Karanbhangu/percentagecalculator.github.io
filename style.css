@@ -184,6 +184,8 @@
         flex-direction: column;
     }
     #heading{
+        position: relative;
+        top: 20px;
         width: 100%;
         border: none;
     }
@@ -192,6 +194,32 @@
     }
     #color{
         width: 289px;
-        height: 70vh;
+        height: 67vh;
     }
 }
+<<<<<<< HEAD
+@media only screen and (max-width:200px), screen and (max-height: 560px){
+  #content{
+    position: relative;
+    top: 20px;
+  }
+  .active{
+    padding: 6px 8px;
+    position: relative;
+    bottom: 20px;
+  }
+  .decos{
+    padding: 6px 8px;
+    position: relative;
+    bottom: 20px;
+  }
+  #color{
+    height: 90vh;
+  }
+  .calculate{
+    position: relative;
+    bottom: 16px;
+  }
+}
+=======
+>>>>>>> 01c872b880e3f41fe60b118b68c71ac3205cd606
