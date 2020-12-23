@@ -197,7 +197,6 @@
         height: 67vh;
     }
 }
-<<<<<<< HEAD
 @media only screen and (max-width:200px), screen and (max-height: 560px){
   #content{
     position: relative;
@@ -221,5 +220,3 @@
     bottom: 16px;
   }
 }
-=======
->>>>>>> 01c872b880e3f41fe60b118b68c71ac3205cd606
